@@ -5,6 +5,7 @@
 * [synchronous VS multiprocessing VS multithreading VS asyncio (w/파이썬)](https://seoyeonhwng.medium.com/synchronous-vs-multiprocessing-vs-multithreading-vs-asyncio-w-%ED%8C%8C%EC%9D%B4%EC%8D%AC-e88c6d16b29a)
 * [파이썬 정규표현식 뿌시기](https://seoyeonhwng.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%EB%BF%8C%EC%8B%9C%EA%B8%B0-e4e96c834991)
 * [파이썬 부동 소수점](https://seoyeonhwng.medium.com/%EB%B6%80%EB%8F%99-%EC%86%8C%EC%88%98%EC%A0%90-4926205e0166)
+* [파이썬 매직 메소드](https://seoyeonhwng.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-magic-method-d4cdbf1b0dfa)
 
 ## AWS
 * [AWS EC2란 무엇인가](https://seoyeonhwng.medium.com/aws-ec2%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-acf6b7041908)
