@@ -15,7 +15,6 @@
 * [AWS EC2란 무엇인가](https://seoyeonhwng.medium.com/aws-ec2%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-acf6b7041908)
 * [AWS 서비스 모니터링 기능 만들기](https://seoyeonhwng.medium.com/aws-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-5727285c7726)
 * [AWS RDS(PostgreSQL) python으로 연동하기](https://seoyeonhwng.medium.com/aws-rds-postgresql-python%EC%9C%BC%EB%A1%9C-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-6c88b0abc4f3)
-* [Docker로 AWS Lambda Layer 만들기](https://seoyeonhwng.medium.com/aws-docker%EB%A1%9C-lambda-layer-%EB%A7%8C%EB%93%A4%EA%B8%B0-b18237c7fbcf)
 * [AWS S3란 무엇인가](https://seoyeonhwng.medium.com/aws-s3%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-b0da502b0504)
 * [AWS Lambda 배포 패키징](https://seoyeonhwng.medium.com/aws-lambda-%EB%B0%B0%ED%8F%AC-%ED%8C%A8%ED%82%A4%EC%A7%95-4dd4f3da69b3)
 * [AWS Lambda란 무엇인가](https://seoyeonhwng.medium.com/aws-lambda%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-44df535d5487)
